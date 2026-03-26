@@ -88,3 +88,6 @@ python app.py
 ### 4. Open in browser
 ``` 
 http://127.0.0.1:5000/
+``` 
+
+[![Watch Video for Demo]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1Vk-yH8p7YBFgRCE_QpJ_2dishN_bcbHn/view?usp=drive_link))
